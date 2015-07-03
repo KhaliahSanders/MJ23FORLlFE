@@ -44,7 +44,7 @@ header {
 
 .quote-list article .bio .image,
 .quote-list article .bio .author {
-    float: center;
+    float: left;
 }
 
 .quote-list article .bio .author {
